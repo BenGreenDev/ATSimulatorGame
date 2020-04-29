@@ -1,0 +1,17 @@
+//#pragma once
+//#include"TestObject.h"
+//
+//class GenericModel : public TestObject<GenericModel>
+//{
+//public:
+//	GenericModel(Graphics& gfx, std::mt19937& rng,
+//		std::uniform_real_distribution<float>& adist,
+//		std::uniform_real_distribution<float>& ddist,
+//		std::uniform_real_distribution<float>& odist,
+//		std::uniform_real_distribution<float>& rdist,
+//		DirectX::XMFLOAT3 material,
+//		std::string fileName);
+//
+//	void SetPos(int _xPos, int _yPos, int _zPos) noexcept override;
+//};
+//
